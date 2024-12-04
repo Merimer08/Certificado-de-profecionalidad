@@ -1,3 +1,3 @@
-# Certificado-de-profecionalidad prueba para git
+# Certificado-de-profesionalidad prueba para git
 Clase teresa
 Añadimos mas info
